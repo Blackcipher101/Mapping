@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/navigation_goal.dir/src/navigation_goal.cpp.o  -o /home/nehalnevle/Mapping/rtab/catkin_ws/devel/lib/udacity_bot/navigation_goal 
